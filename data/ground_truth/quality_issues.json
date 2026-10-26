@@ -1,0 +1,13 @@
+{
+  "rows_dropped": 950,
+  "nulls_injected": {
+    "tubing_pressure_psi": 1422,
+    "casing_pressure_psi": 1422,
+    "oil_rate_bbl_d": 1422,
+    "gas_rate_mcf_d": 1422,
+    "water_cut_pct": 1422,
+    "temperature_f": 1422
+  },
+  "out_of_range_injected": 237,
+  "duplicates_injected": 474
+}
